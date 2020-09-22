@@ -75,11 +75,6 @@ trackList = [
 		src:"eng_music/XXXTENTACION Juice WRLD - where did u go (Ocean Mix).mp3"
 	},
 	{
-		name:"Lofi - Chill aesthetic music playlist",
-		artist:"Lofi",
-		src:"eng_music/Lofi - Chill aesthetic music playlist.mp3"
-	},
-	{
 		name:"Post Malone - My Friends",
 		artist:"Post Malone",
 		src:"eng_music/Post Malone - My Friends.mp3"
