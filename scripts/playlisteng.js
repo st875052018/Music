@@ -83,5 +83,115 @@ trackList = [
 		name:"Lofi - Chill aesthetic music playlist",
 		artist:"Lofi",
 		src:"eng_music/Lofi - Chill aesthetic music playlist.mp3"
+	},
+	{
+		name:"Deja Vu- Post Malone ft. Justin Bieber (official audio)",
+		artist:"Deja Vu",
+		src:"eng_music/Deja Vu- Post Malone ft. Justin Bieber (official audio).mp3"
+	},
+	{
+		name:"Post Malone - A Thousand Bad Times (Audio)",
+		artist:"Post Malone",
+		src:"eng_music/"
+	},
+	{
+		name:"Post Malone - Better Now",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Better Now.mp3"
+	},
+	{
+		name:"Post Malone - Candy Paint (The Fate of the Furious The Album) [Official Audio]",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Candy Paint (The Fate of the Furious The Album) [Official Audio].mp3"
+	},
+	{
+		name:"Post Malone - Circles",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Circles.mp3"
+	},
+	{
+		name:"Post Malone - Congratulations ft. Quavo",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Congratulations ft. Quavo.mp3"
+	},
+	{
+		name:"Post Malone - Die For Me (Audio) ft. Future, Halsey",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Die For Me (Audio) ft. Future, Halsey.mp3"
+	},
+	{
+		name:"Post Malone - Enemies feat. DaBaby (Lyrics)",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Enemies feat. DaBaby (Lyrics).mp3"
+	},
+	{
+		name:"Post Malone - Go Flex",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Go Flex.mp3"
+	},
+	{
+		name:"Post Malone - Goodbyes ft. Young Thug",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Goodbyes ft. Young Thug.mp3"
+	},
+	{
+		name:"Post Malone - Im Gonna Be (Audio)",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Im Gonna Be (Audio).mp3"
+	},
+	{
+		name:"Post Malone - Myself (Audio)",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Myself (Audio).mp3"
+	},
+	{
+		name:"Post Malone - Paranoid (Lyrics)",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Paranoid (Lyrics).mp3"
+	},
+	{
+		name:"Post Malone - Paranoid (Lyrics)",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Paranoid (Lyrics).mp3"
+	},
+	{
+		name:"Post Malone - rockstar ft. 21 Savage",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - rockstar ft. 21 Savage.mp3"
+	},
+	{
+		name:"Post Malone - Saint-Tropez (Official Video)",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Saint-Tropez (Official Video).mp3"
+	},
+	{
+		name:"Post Malone - These Days",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - These Days.mp3"
+	},
+	{
+		name:"Post Malone - Too Young",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Too Young.mp3"
+	},
+	{
+		name:"Post Malone - White Iverson",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - White Iverson.mp3"
+	},
+	{
+		name:"Post Malone - Wow",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone - Wow.mp3"
+	},
+	{
+		name:"Post Malone, Swae Lee - Sunflower",
+		artist:"Post Malone",
+		src:"eng_music/Post Malone, Swae Lee - Sunflower.mp3"
+	},
+	{
+		name:"Rich and Sad",
+		artist:"",
+		src:"eng_music/Rich and Sad.mp3"
 	}
 ];
