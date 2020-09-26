@@ -78,10 +78,5 @@ trackList = [
 		name:"Post Malone - My Friends",
 		artist:"Post Malone",
 		src:"eng_music/Post Malone - My Friends.mp3"
-	},
-	{
-		name:"Lofi - Chill aesthetic music playlist",
-		artist:"Lofi",
-		src:"eng_music/Lofi - Chill aesthetic music playlist.mp3"
 	}
 ];
