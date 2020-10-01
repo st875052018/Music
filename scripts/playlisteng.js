@@ -193,5 +193,15 @@ trackList = [
 		name:"Rich and Sad",
 		artist:"",
 		src:"eng_music/Rich and Sad.mp3"
+	},
+	{
+		name:"Juice W R L D Tribute Mixtape",
+		artist:"",
+		src:"eng_music/Juice W R L D Tribute Mixtape.mp3"
+	},
+	{
+		name:"Marshmello Sanctuary Mix",
+		artist:"",
+		src:"eng_music/Marshmello Sanctuary Mix.mp3"
 	}
 ];
