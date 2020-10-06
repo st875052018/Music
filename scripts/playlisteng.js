@@ -92,7 +92,7 @@ trackList = [
 	{
 		name:"Post Malone - A Thousand Bad Times (Audio)",
 		artist:"Post Malone",
-		src:"eng_music/"
+		src:"eng_music/Post Malone - A Thousand Bad Times (Audio).mp3"
 	},
 	{
 		name:"Post Malone - Better Now",
