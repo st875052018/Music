@@ -113,7 +113,7 @@ timeUpdateCallback = function(){
     
     timeText.textContent = minutes+":"+ (seconds<10?"0"+seconds:seconds);
     
-    log.textContent = "Duration: " + audio.duration + "Current: "+ audio.currentTime;
+    //log.textContent = "Duration: " + audio.duration + "Current: "+ audio.currentTime;
 }
 audio.addEventListener("timeupdate",timeUpdateCallback,false);
 
