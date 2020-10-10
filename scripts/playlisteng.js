@@ -203,5 +203,20 @@ trackList = [
 		name:"Marshmello Sanctuary Mix",
 		artist:"",
 		src:"eng_music/Marshmello Sanctuary Mix.mp3"
+	},
+	{
+		name:"Lil Revive x Darko - SLASHER",
+		artist:"Lil Revive x Darko",
+		src:"eng_music/Lil Revive x Darko - SLASHER.mp3"
+	},
+	{
+		name:"Josh A - DISGRACE",
+		artist:"Josh A ",
+		src:"eng_music/Josh A - DISGRACE.mp3"
+	},
+	{
+		name:"Lil Revive - GRIM PEAKS",
+		artist:"Lil Revive",
+		src:"eng_music/Lil Revive - GRIM PEAKS.mp3"
 	}
 ];
