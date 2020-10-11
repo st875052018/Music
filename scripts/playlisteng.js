@@ -218,5 +218,10 @@ trackList = [
 		name:"Lil Revive - GRIM PEAKS",
 		artist:"Lil Revive",
 		src:"eng_music/Lil Revive - GRIM PEAKS.mp3"
-	}
+	},
+	{
+		name:"陳嫺靜 - 輕輕 (Official Visual)",
+		artist:"陳嫺靜",
+		src:"eng_music/陳嫺靜 - 輕輕 (Official Visual)"
+	},
 ];
